@@ -1,0 +1,10 @@
+[環境構築]
+        https://qiita.com/A-Kira/items/8693a78873ca9cab0738
+
+        この内容を元に記述.
+        docker-compose を用いたangularの環境構築を行った.
+
+[参考文献]
+        内容の参考としては主に, "Angularアプリケーションプログラミング"を使用した.
+
+
